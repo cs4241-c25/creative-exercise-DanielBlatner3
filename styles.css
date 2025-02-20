@@ -1,0 +1,13 @@
+
+.xray{
+    opacity: 1;
+}
+
+
+.revealed{
+    opacity: 0.2;
+}
+
+.xray:hover{
+    opacity: 0.5;
+}
